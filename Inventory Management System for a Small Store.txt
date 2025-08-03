@@ -1,0 +1,7 @@
+Build a system to manage products, categories, suppliers, and stock transactions (inbound/outbound), with separate service layers, AutoMapper usage, and Entity Framework Core best practices.
+
+Controllers/>>>>>> Web API endpoints
+DTOs/>>>>>> Data Transfer Objects (for input/output)
+Models/ >>>>Interfaces for Services (abstraction)
+Services/>>>>>Business Logic Layer
+Profiles/>>>>>AutoMapper configuration
